@@ -312,31 +312,3 @@ button:hover {
     background-color: #E5C12A; 
 }
 
-/* ****** MEDIA QUERIES ****** */
-@media (max-width: 768px) {
-    .container, .contato, #formulario-contato {
-        width: 90%;
-    }
-
-    h2 {
-        font-size: 36px;
-    }
-
-    button {
-        padding: 10px;
-    }
-}
-
-@media (max-width: 480px) {
-    h2 {
-        font-size: 28px;
-    }
-
-    .imagepostagem {
-        width: 100%;
-    }
-
-    button {
-        font-size: 14px;
-    }
-}
